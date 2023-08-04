@@ -1,0 +1,15 @@
+{
+    "name": "pkttik01/quercus",
+    "autoload": {
+        "psr-4": {
+            "Pkttik01\\Quercus\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilham",
+            "email": "ilham.personal29@gmail.com"
+        }
+    ],
+    "require": {}
+}
